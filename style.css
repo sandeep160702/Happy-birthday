@@ -15,7 +15,7 @@ body {
   .carousel-item {
     --items: 10;
     --width: clamp(150px, 80vw, 700px);
-    --height: clamp(200px, 80vw, 900px);
+    --height: clamp(200px, 90vw, 900px);
     --x: calc(var(--active) * 800%);
     --y: calc(var(--active) * 200%);
     --rot: calc(var(--active) * 120deg);
