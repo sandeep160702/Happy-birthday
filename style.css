@@ -68,8 +68,8 @@ body {
     bottom: 20px;
     left: 20px;
     transition: opacity 0.8s cubic-bezier(0, 0.02, 0, 1);
-    font-size: clamp(20px, 3vw, 30px);
-    text-shadow: 0 4px 4px rgba(0, 0, 0, 0.1);
+    font-size: clamp(20px, 7vw, 70px);
+    text-shadow: 0 6px 6px rgba(0, 0, 0);
   }
   .carousel-item .num {
     position: absolute;
